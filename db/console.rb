@@ -26,5 +26,8 @@ property1.save()
 property2.save()
 property3.save()
 
+property1.value = 80_000
+property1.update()
+
 binding.pry
 nil
