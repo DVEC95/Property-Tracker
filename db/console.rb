@@ -24,6 +24,7 @@ property3 = Property.new({
 
 property1.save()
 property2.save()
+property3.save()
 
 binding.pry
 nil
